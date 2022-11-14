@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(216, 185, 247);
+}
+#buttons{
+    background-color: rgb(58, 31, 211);
+    border-radius: 10px;
+    width:300px;
+    height:70px;
+    font-size: 1.5rem;
+    border:0;
+    margin:0 10px;
+    color:white;
+}
+#buttons:hover{
+    background-color: rgba(30, 68, 238, 0.467);
+}
